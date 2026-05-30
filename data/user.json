@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "nickname": "张管理",
+    "username": "admin",
+    "password": "admin",
+    "sex": 1,
+    "phoneNumber": "13800001111",
+    "roleId": 1,
+    "isDeleted": 0,
+    "createTime": "2025-10-30"
+  },
+  {
+    "id": 2,
+    "nickname": "李管理",
+    "username": "admin1",
+    "password": "admin1",
+    "sex": 0,
+    "phoneNumber": "13800002222",
+    "roleId": 1,
+    "isDeleted": 0,
+    "createTime": "2025-10-30"
+  },
+  {
+    "id": 3,
+    "nickname": "王管理",
+    "username": "admin2",
+    "password": "admin2",
+    "sex": 1,
+    "phoneNumber": "13800003333",
+    "roleId": 1,
+    "isDeleted": 0,
+    "createTime": "2025-10-30"
+  },
+  {
+    "id": 4,
+    "nickname": "赵管家",
+    "username": "steward1",
+    "password": "steward1",
+    "sex": 0,
+    "phoneNumber": "13900001111",
+    "roleId": 2,
+    "isDeleted": 0,
+    "createTime": "2025-11-01"
+  },
+  {
+    "id": 5,
+    "nickname": "钱管家",
+    "username": "steward2",
+    "password": "steward2",
+    "sex": 1,
+    "phoneNumber": "13900002222",
+    "roleId": 2,
+    "isDeleted": 0,
+    "createTime": "2025-11-01"
+  },
+  {
+    "id": 6,
+    "nickname": "孙管家",
+    "username": "steward3",
+    "password": "steward3",
+    "sex": 0,
+    "phoneNumber": "13900003333",
+    "roleId": 2,
+    "isDeleted": 0,
+    "createTime": "2025-11-15"
+  },
+  {
+    "id": 7,
+    "nickname": "刘管理",
+    "username": "admin3",
+    "password": "admin3",
+    "sex": 1,
+    "phoneNumber": "13800004444",
+    "roleId": 1,
+    "isDeleted": 0,
+    "createTime": "2026-01-10"
+  },
+  {
+    "id": 8,
+    "nickname": "周管家",
+    "username": "steward4",
+    "password": "steward4",
+    "sex": 0,
+    "phoneNumber": "13900004444",
+    "roleId": 2,
+    "isDeleted": 0,
+    "createTime": "2026-02-20"
+  },
+  {
+    "id": 9,
+    "nickname": "陈管家",
+    "username": "steward5",
+    "password": "steward5",
+    "sex": 1,
+    "phoneNumber": "13900005555",
+    "roleId": 2,
+    "isDeleted": 0,
+    "createTime": "2026-03-15"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "roomFloor": "1楼",
+    "roomNo": 101
+  },
+  {
+    "id": 2,
+    "roomFloor": "1楼",
+    "roomNo": 102
+  },
+  {
+    "id": 3,
+    "roomFloor": "1楼",
+    "roomNo": 103
+  },
+  {
+    "id": 4,
+    "roomFloor": "2楼",
+    "roomNo": 201
+  },
+  {
+    "id": 5,
+    "roomFloor": "2楼",
+    "roomNo": 202
+  },
+  {
+    "id": 6,
+    "roomFloor": "2楼",
+    "roomNo": 203
+  },
+  {
+    "id": 7,
+    "roomFloor": "3楼",
+    "roomNo": 301
+  },
+  {
+    "id": 8,
+    "roomFloor": "3楼",
+    "roomNo": 302
+  },
+  {
+    "id": 9,
+    "roomFloor": "3楼",
+    "roomNo": 303
+  }
+]

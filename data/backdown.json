@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "remarks": "",
+    "customerId": 3,
+    "retreatTime": "2026-06-15",
+    "retreatType": 0,
+    "retreatReason": "子女接回家居住",
+    "auditStatus": 1,
+    "auditPerson": "张管理",
+    "auditTime": "2026-05-26",
+    "isDeleted": 0
+  },
+  {
+    "id": 2,
+    "remarks": "家属申请中",
+    "customerId": 5,
+    "retreatTime": "2026-06-01",
+    "retreatType": 2,
+    "retreatReason": "外出就医保留床位",
+    "auditStatus": 0,
+    "auditPerson": null,
+    "auditTime": null,
+    "isDeleted": 0
+  },
+  {
+    "id": 3,
+    "remarks": "",
+    "customerId": 4,
+    "retreatTime": "2026-07-01",
+    "retreatType": 0,
+    "retreatReason": "转至康复医院",
+    "auditStatus": 0,
+    "auditPerson": null,
+    "auditTime": null,
+    "isDeleted": 0
+  },
+  {
+    "id": 4,
+    "remarks": "",
+    "customerId": 6,
+    "retreatTime": "2026-05-30",
+    "retreatType": 1,
+    "retreatReason": "因病去世",
+    "auditStatus": 0,
+    "auditPerson": null,
+    "auditTime": null,
+    "isDeleted": 0
+  }
+]

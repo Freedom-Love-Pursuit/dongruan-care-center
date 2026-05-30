@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "serialNumber": "NC000001",
+    "nursingName": "血压测量",
+    "servicePrice": "30",
+    "message": "每日测量并记录血压值",
+    "status": 1,
+    "executionCycle": "每日1次",
+    "executionTimes": "1",
+    "isDeleted": 0
+  },
+  {
+    "id": 2,
+    "serialNumber": "NC000002",
+    "nursingName": "血糖监测",
+    "servicePrice": "40",
+    "message": "每日测量血糖值并记录",
+    "status": 1,
+    "executionCycle": "每日2次",
+    "executionTimes": "2",
+    "isDeleted": 0
+  },
+  {
+    "id": 3,
+    "serialNumber": "NC000003",
+    "nursingName": "协助进食",
+    "servicePrice": "50",
+    "message": "协助老人进食，确保营养摄入",
+    "status": 1,
+    "executionCycle": "每日3次",
+    "executionTimes": "3",
+    "isDeleted": 0
+  },
+  {
+    "id": 4,
+    "serialNumber": "NC000004",
+    "nursingName": "协助洗浴",
+    "servicePrice": "60",
+    "message": "协助老人完成洗浴",
+    "status": 1,
+    "executionCycle": "每周3次",
+    "executionTimes": "3",
+    "isDeleted": 0
+  },
+  {
+    "id": 5,
+    "serialNumber": "NC000005",
+    "nursingName": "翻身护理",
+    "servicePrice": "80",
+    "message": "定时为卧床老人翻身，预防压疮",
+    "status": 1,
+    "executionCycle": "每2小时1次",
+    "executionTimes": "12",
+    "isDeleted": 0
+  },
+  {
+    "id": 6,
+    "serialNumber": "NC000006",
+    "nursingName": "康复训练",
+    "servicePrice": "100",
+    "message": "根据老人情况制定康复训练计划",
+    "status": 1,
+    "executionCycle": "每日1次",
+    "executionTimes": "1",
+    "isDeleted": 0
+  },
+  {
+    "id": 7,
+    "serialNumber": "NC000007",
+    "nursingName": "药物管理",
+    "servicePrice": "35",
+    "message": "按时分发药物，确保正确服用",
+    "status": 1,
+    "executionCycle": "每日1次",
+    "executionTimes": "1",
+    "isDeleted": 0
+  },
+  {
+    "id": 8,
+    "serialNumber": "NC000008",
+    "nursingName": "陪伴散步",
+    "servicePrice": "55",
+    "message": "陪伴老人户外散步活动",
+    "status": 1,
+    "executionCycle": "每周5次",
+    "executionTimes": "5",
+    "isDeleted": 0
+  },
+  {
+    "id": 9,
+    "serialNumber": "NC000009",
+    "nursingName": "心理疏导",
+    "servicePrice": "70",
+    "message": "与老人沟通交流，关注心理健康",
+    "status": 2,
+    "executionCycle": "每周2次",
+    "executionTimes": "2",
+    "isDeleted": 0
+  },
+  {
+    "id": 10,
+    "serialNumber": "NC000010",
+    "nursingName": "口腔护理",
+    "servicePrice": "45",
+    "message": "每日为老人清洁口腔",
+    "status": 1,
+    "executionCycle": "每日2次",
+    "executionTimes": "2",
+    "isDeleted": 0
+  },
+  {
+    "id": 11,
+    "serialNumber": "NC000011",
+    "nursingName": "体温监测",
+    "servicePrice": "25",
+    "message": "每日测量体温并记录",
+    "status": 2,
+    "executionCycle": "每日2次",
+    "executionTimes": "2",
+    "isDeleted": 0
+  }
+]

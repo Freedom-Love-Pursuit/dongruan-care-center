@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "customerId": 1,
+    "itemId": 1,
+    "nursingTime": "2026-05-28 08:30",
+    "nursingContent": "血压120/80，正常",
+    "nursingCount": 1,
+    "userId": 4,
+    "isDeleted": 0
+  },
+  {
+    "id": 2,
+    "customerId": 1,
+    "itemId": 7,
+    "nursingTime": "2026-05-28 09:00",
+    "nursingContent": "服用降压药一颗",
+    "nursingCount": 1,
+    "userId": 4,
+    "isDeleted": 0
+  },
+  {
+    "id": 3,
+    "customerId": 2,
+    "itemId": 5,
+    "nursingTime": "2026-05-28 10:00",
+    "nursingContent": "翻身护理完成，皮肤完好",
+    "nursingCount": 1,
+    "userId": 4,
+    "isDeleted": 0
+  },
+  {
+    "id": 4,
+    "customerId": 2,
+    "itemId": 3,
+    "nursingTime": "2026-05-28 12:00",
+    "nursingContent": "协助进食午餐，食量正常",
+    "nursingCount": 1,
+    "userId": 4,
+    "isDeleted": 0
+  },
+  {
+    "id": 5,
+    "customerId": 4,
+    "itemId": 1,
+    "nursingTime": "2026-05-28 08:00",
+    "nursingContent": "血压130/85，偏高，嘱多休息",
+    "nursingCount": 1,
+    "userId": 5,
+    "isDeleted": 0
+  },
+  {
+    "id": 6,
+    "customerId": 4,
+    "itemId": 8,
+    "nursingTime": "2026-05-28 15:00",
+    "nursingContent": "小区内散步30分钟",
+    "nursingCount": 1,
+    "userId": 5,
+    "isDeleted": 0
+  },
+  {
+    "id": 7,
+    "customerId": 6,
+    "itemId": 5,
+    "nursingTime": "2026-05-28 07:00",
+    "nursingContent": "晨间翻身护理，检查皮肤",
+    "nursingCount": 1,
+    "userId": 6,
+    "isDeleted": 0
+  },
+  {
+    "id": 8,
+    "customerId": 6,
+    "itemId": 3,
+    "nursingTime": "2026-05-28 12:30",
+    "nursingContent": "午餐喂食，进食约300g",
+    "nursingCount": 1,
+    "userId": 6,
+    "isDeleted": 0
+  },
+  {
+    "id": 9,
+    "customerId": 1,
+    "itemId": 1,
+    "nursingTime": "2026-05-29 08:00",
+    "nursingContent": "血压118/78，正常",
+    "nursingCount": 1,
+    "userId": 4,
+    "isDeleted": 0
+  },
+  {
+    "id": 10,
+    "customerId": 1,
+    "itemId": 7,
+    "nursingTime": "2026-05-29 08:45",
+    "nursingContent": "服用降压药",
+    "nursingCount": 1,
+    "userId": 4,
+    "isDeleted": 0
+  },
+  {
+    "id": 11,
+    "customerId": 2,
+    "itemId": 5,
+    "nursingTime": "2026-05-29 09:00",
+    "nursingContent": "翻身护理",
+    "nursingCount": 1,
+    "userId": 4,
+    "isDeleted": 0
+  },
+  {
+    "id": 12,
+    "customerId": 2,
+    "itemId": 3,
+    "nursingTime": "2026-05-29 11:30",
+    "nursingContent": "午餐喂食",
+    "nursingCount": 1,
+    "userId": 4,
+    "isDeleted": 0
+  },
+  {
+    "id": 13,
+    "customerId": 4,
+    "itemId": 1,
+    "nursingTime": "2026-05-29 07:45",
+    "nursingContent": "血压125/80，正常",
+    "nursingCount": 1,
+    "userId": 5,
+    "isDeleted": 0
+  },
+  {
+    "id": 14,
+    "customerId": 4,
+    "itemId": 7,
+    "nursingTime": "2026-05-29 09:00",
+    "nursingContent": "分发降糖药",
+    "nursingCount": 1,
+    "userId": 5,
+    "isDeleted": 0
+  },
+  {
+    "id": 15,
+    "customerId": 6,
+    "itemId": 5,
+    "nursingTime": "2026-05-29 06:30",
+    "nursingContent": "晨间翻身护理",
+    "nursingCount": 1,
+    "userId": 6,
+    "isDeleted": 0
+  },
+  {
+    "id": 16,
+    "customerId": 6,
+    "itemId": 2,
+    "nursingTime": "2026-05-29 08:00",
+    "nursingContent": "空腹血糖6.2，餐后待测",
+    "nursingCount": 1,
+    "userId": 6,
+    "isDeleted": 0
+  },
+  {
+    "id": 17,
+    "customerId": 7,
+    "itemId": 1,
+    "nursingTime": "2026-05-29 08:30",
+    "nursingContent": "血压135/88，略高",
+    "nursingCount": 1,
+    "userId": 8,
+    "isDeleted": 0
+  },
+  {
+    "id": 18,
+    "customerId": 8,
+    "itemId": 3,
+    "nursingTime": "2026-05-29 12:00",
+    "nursingContent": "协助进食午餐",
+    "nursingCount": 1,
+    "userId": 8,
+    "isDeleted": 0
+  },
+  {
+    "id": 19,
+    "customerId": 10,
+    "itemId": 5,
+    "nursingTime": "2026-05-29 07:00",
+    "nursingContent": "翻身护理+检查皮肤",
+    "nursingCount": 1,
+    "userId": 9,
+    "isDeleted": 0
+  },
+  {
+    "id": 20,
+    "customerId": 10,
+    "itemId": 3,
+    "nursingTime": "2026-05-29 12:00",
+    "nursingContent": "鼻饲营养液500ml",
+    "nursingCount": 1,
+    "userId": 9,
+    "isDeleted": 0
+  },
+  {
+    "id": 21,
+    "customerId": 11,
+    "itemId": 1,
+    "nursingTime": "2026-05-29 08:00",
+    "nursingContent": "血压122/82，正常",
+    "nursingCount": 1,
+    "userId": 8,
+    "isDeleted": 0
+  },
+  {
+    "id": 22,
+    "customerId": 12,
+    "itemId": 6,
+    "nursingTime": "2026-05-29 10:00",
+    "nursingContent": "上肢康复训练20分钟",
+    "nursingCount": 1,
+    "userId": 9,
+    "isDeleted": 0
+  }
+]

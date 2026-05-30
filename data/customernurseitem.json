@@ -1,0 +1,280 @@
+[ {
+  "id" : 1,
+  "itemId" : 1,
+  "customerId" : 1,
+  "levelId" : 1,
+  "nurseNumber" : 30,
+  "buyTime" : "2025-11-01",
+  "maturityTime" : "2026-02-01",
+  "isDeleted" : 1
+}, {
+  "id" : 2,
+  "itemId" : 7,
+  "customerId" : 1,
+  "levelId" : 1,
+  "nurseNumber" : 30,
+  "buyTime" : "2025-11-01",
+  "maturityTime" : "2026-02-01",
+  "isDeleted" : 1
+}, {
+  "id" : 3,
+  "itemId" : 8,
+  "customerId" : 1,
+  "levelId" : 1,
+  "nurseNumber" : 25,
+  "buyTime" : "2025-11-01",
+  "maturityTime" : "2026-02-01",
+  "isDeleted" : 1
+}, {
+  "id" : 4,
+  "itemId" : 6,
+  "customerId" : 1,
+  "levelId" : null,
+  "nurseNumber" : 10,
+  "buyTime" : "2025-12-15",
+  "maturityTime" : "2026-03-15",
+  "isDeleted" : 1
+}, {
+  "id" : 5,
+  "itemId" : 2,
+  "customerId" : 2,
+  "levelId" : 2,
+  "nurseNumber" : 60,
+  "buyTime" : "2025-11-05",
+  "maturityTime" : "2026-02-05",
+  "isDeleted" : 0
+}, {
+  "id" : 6,
+  "itemId" : 3,
+  "customerId" : 2,
+  "levelId" : 2,
+  "nurseNumber" : 90,
+  "buyTime" : "2025-11-05",
+  "maturityTime" : "2026-02-05",
+  "isDeleted" : 0
+}, {
+  "id" : 7,
+  "itemId" : 5,
+  "customerId" : 2,
+  "levelId" : 2,
+  "nurseNumber" : 180,
+  "buyTime" : "2025-11-05",
+  "maturityTime" : "2026-02-05",
+  "isDeleted" : 0
+}, {
+  "id" : 8,
+  "itemId" : 6,
+  "customerId" : 2,
+  "levelId" : 2,
+  "nurseNumber" : 30,
+  "buyTime" : "2025-11-05",
+  "maturityTime" : "2026-02-05",
+  "isDeleted" : 0
+}, {
+  "id" : 9,
+  "itemId" : 1,
+  "customerId" : 4,
+  "levelId" : 1,
+  "nurseNumber" : 30,
+  "buyTime" : "2025-12-01",
+  "maturityTime" : "2026-03-01",
+  "isDeleted" : 0
+}, {
+  "id" : 10,
+  "itemId" : 7,
+  "customerId" : 4,
+  "levelId" : 1,
+  "nurseNumber" : 30,
+  "buyTime" : "2025-12-01",
+  "maturityTime" : "2026-03-01",
+  "isDeleted" : 0
+}, {
+  "id" : 11,
+  "itemId" : 8,
+  "customerId" : 4,
+  "levelId" : 1,
+  "nurseNumber" : 5,
+  "buyTime" : "2025-12-01",
+  "maturityTime" : "2026-03-01",
+  "isDeleted" : 0
+}, {
+  "id" : 12,
+  "itemId" : 2,
+  "customerId" : 6,
+  "levelId" : 2,
+  "nurseNumber" : 60,
+  "buyTime" : "2025-10-20",
+  "maturityTime" : "2026-01-20",
+  "isDeleted" : 0
+}, {
+  "id" : 13,
+  "itemId" : 3,
+  "customerId" : 6,
+  "levelId" : 2,
+  "nurseNumber" : 90,
+  "buyTime" : "2025-10-20",
+  "maturityTime" : "2026-01-20",
+  "isDeleted" : 0
+}, {
+  "id" : 14,
+  "itemId" : 5,
+  "customerId" : 6,
+  "levelId" : 2,
+  "nurseNumber" : 200,
+  "buyTime" : "2025-10-20",
+  "maturityTime" : "2026-01-20",
+  "isDeleted" : 0
+}, {
+  "id" : 15,
+  "itemId" : 6,
+  "customerId" : 6,
+  "levelId" : 2,
+  "nurseNumber" : 30,
+  "buyTime" : "2025-10-20",
+  "maturityTime" : "2026-01-20",
+  "isDeleted" : 0
+}, {
+  "id" : 16,
+  "itemId" : 1,
+  "customerId" : 7,
+  "levelId" : 1,
+  "nurseNumber" : 30,
+  "buyTime" : "2026-02-10",
+  "maturityTime" : "2026-05-10",
+  "isDeleted" : 0
+}, {
+  "id" : 17,
+  "itemId" : 7,
+  "customerId" : 7,
+  "levelId" : 1,
+  "nurseNumber" : 30,
+  "buyTime" : "2026-02-10",
+  "maturityTime" : "2026-05-10",
+  "isDeleted" : 0
+}, {
+  "id" : 18,
+  "itemId" : 8,
+  "customerId" : 7,
+  "levelId" : 1,
+  "nurseNumber" : 20,
+  "buyTime" : "2026-02-10",
+  "maturityTime" : "2026-05-10",
+  "isDeleted" : 0
+}, {
+  "id" : 19,
+  "itemId" : 2,
+  "customerId" : 8,
+  "levelId" : 2,
+  "nurseNumber" : 50,
+  "buyTime" : "2026-03-01",
+  "maturityTime" : "2026-06-01",
+  "isDeleted" : 0
+}, {
+  "id" : 20,
+  "itemId" : 3,
+  "customerId" : 8,
+  "levelId" : 2,
+  "nurseNumber" : 90,
+  "buyTime" : "2026-03-01",
+  "maturityTime" : "2026-06-01",
+  "isDeleted" : 0
+}, {
+  "id" : 21,
+  "itemId" : 5,
+  "customerId" : 8,
+  "levelId" : 2,
+  "nurseNumber" : 100,
+  "buyTime" : "2026-03-01",
+  "maturityTime" : "2026-06-01",
+  "isDeleted" : 0
+}, {
+  "id" : 22,
+  "itemId" : 1,
+  "customerId" : 10,
+  "levelId" : 3,
+  "nurseNumber" : 30,
+  "buyTime" : "2026-04-05",
+  "maturityTime" : "2026-07-05",
+  "isDeleted" : 0
+}, {
+  "id" : 23,
+  "itemId" : 2,
+  "customerId" : 10,
+  "levelId" : 3,
+  "nurseNumber" : 60,
+  "buyTime" : "2026-04-05",
+  "maturityTime" : "2026-07-05",
+  "isDeleted" : 0
+}, {
+  "id" : 24,
+  "itemId" : 3,
+  "customerId" : 10,
+  "levelId" : 3,
+  "nurseNumber" : 90,
+  "buyTime" : "2026-04-05",
+  "maturityTime" : "2026-07-05",
+  "isDeleted" : 0
+}, {
+  "id" : 25,
+  "itemId" : 5,
+  "customerId" : 10,
+  "levelId" : 3,
+  "nurseNumber" : 360,
+  "buyTime" : "2026-04-05",
+  "maturityTime" : "2026-07-05",
+  "isDeleted" : 0
+}, {
+  "id" : 26,
+  "itemId" : 1,
+  "customerId" : 11,
+  "levelId" : 1,
+  "nurseNumber" : 30,
+  "buyTime" : "2026-04-15",
+  "maturityTime" : "2026-07-15",
+  "isDeleted" : 0
+}, {
+  "id" : 27,
+  "itemId" : 7,
+  "customerId" : 11,
+  "levelId" : 1,
+  "nurseNumber" : 30,
+  "buyTime" : "2026-04-15",
+  "maturityTime" : "2026-07-15",
+  "isDeleted" : 0
+}, {
+  "id" : 28,
+  "itemId" : 8,
+  "customerId" : 11,
+  "levelId" : 1,
+  "nurseNumber" : 20,
+  "buyTime" : "2026-04-15",
+  "maturityTime" : "2026-07-15",
+  "isDeleted" : 0
+}, {
+  "id" : 29,
+  "itemId" : 6,
+  "customerId" : 12,
+  "levelId" : 2,
+  "nurseNumber" : 30,
+  "buyTime" : "2026-05-01",
+  "maturityTime" : "2026-08-01",
+  "isDeleted" : 0
+}, {
+  "id" : 30,
+  "itemId" : 10,
+  "customerId" : 12,
+  "levelId" : 2,
+  "nurseNumber" : 60,
+  "buyTime" : "2026-05-01",
+  "maturityTime" : "2026-08-01",
+  "isDeleted" : 0
+}, {
+  "id" : 31,
+  "itemId" : 3,
+  "customerId" : 12,
+  "levelId" : 2,
+  "nurseNumber" : 90,
+  "buyTime" : "2026-05-01",
+  "maturityTime" : "2026-08-01",
+  "isDeleted" : 0
+} ]

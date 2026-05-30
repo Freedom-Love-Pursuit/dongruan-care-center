@@ -1,0 +1,136 @@
+[ {
+  "id" : 1,
+  "foodName" : "小米粥",
+  "foodType" : "主食",
+  "isDeleted" : 0
+}, {
+  "id" : 2,
+  "foodName" : "白粥",
+  "foodType" : "主食",
+  "isDeleted" : 0
+}, {
+  "id" : 3,
+  "foodName" : "馒头",
+  "foodType" : "主食",
+  "isDeleted" : 0
+}, {
+  "id" : 4,
+  "foodName" : "花卷",
+  "foodType" : "主食",
+  "isDeleted" : 0
+}, {
+  "id" : 5,
+  "foodName" : "米饭",
+  "foodType" : "主食",
+  "isDeleted" : 0
+}, {
+  "id" : 6,
+  "foodName" : "鸡蛋",
+  "foodType" : "菜品",
+  "isDeleted" : 0
+}, {
+  "id" : 7,
+  "foodName" : "清蒸鱼",
+  "foodType" : "菜品",
+  "isDeleted" : 0
+}, {
+  "id" : 8,
+  "foodName" : "红烧肉",
+  "foodType" : "菜品",
+  "isDeleted" : 0
+}, {
+  "id" : 9,
+  "foodName" : "青菜豆腐",
+  "foodType" : "菜品",
+  "isDeleted" : 0
+}, {
+  "id" : 10,
+  "foodName" : "番茄炒蛋",
+  "foodType" : "菜品",
+  "isDeleted" : 0
+}, {
+  "id" : 11,
+  "foodName" : "西芹百合",
+  "foodType" : "菜品",
+  "isDeleted" : 0
+}, {
+  "id" : 12,
+  "foodName" : "紫菜蛋花汤",
+  "foodType" : "汤品",
+  "isDeleted" : 0
+}, {
+  "id" : 13,
+  "foodName" : "排骨汤",
+  "foodType" : "汤品",
+  "isDeleted" : 0
+}, {
+  "id" : 14,
+  "foodName" : "西红柿蛋汤",
+  "foodType" : "汤品",
+  "isDeleted" : 0
+}, {
+  "id" : 15,
+  "foodName" : "苹果",
+  "foodType" : "水果",
+  "isDeleted" : 0
+}, {
+  "id" : 16,
+  "foodName" : "香蕉",
+  "foodType" : "水果",
+  "isDeleted" : 0
+}, {
+  "id" : 17,
+  "foodName" : "橙子",
+  "foodType" : "水果",
+  "isDeleted" : 0
+}, {
+  "id" : 18,
+  "foodName" : "牛奶",
+  "foodType" : "饮品",
+  "isDeleted" : 0
+}, {
+  "id" : 19,
+  "foodName" : "豆浆",
+  "foodType" : "饮品",
+  "isDeleted" : 0
+}, {
+  "id" : 20,
+  "foodName" : "清炒时蔬",
+  "foodType" : "菜品",
+  "isDeleted" : 0
+}, {
+  "id" : 21,
+  "foodName" : "山药粥",
+  "foodType" : "主食",
+  "isDeleted" : 0
+}, {
+  "id" : 22,
+  "foodName" : "蒸南瓜",
+  "foodType" : "菜品",
+  "isDeleted" : 0
+}, {
+  "id" : 23,
+  "foodName" : "鸡肉汤",
+  "foodType" : "汤品",
+  "isDeleted" : 0
+}, {
+  "id" : 24,
+  "foodName" : "西瓜",
+  "foodType" : "水果",
+  "isDeleted" : 0
+}, {
+  "id" : 25,
+  "foodName" : "藕粉",
+  "foodType" : "主食",
+  "isDeleted" : 0
+}, {
+  "id" : 26,
+  "foodName" : "ds",
+  "foodType" : "d",
+  "isDeleted" : 0
+}, {
+  "id" : 27,
+  "foodName" : "老虎",
+  "foodType" : "主食",
+  "isDeleted" : 0
+} ]

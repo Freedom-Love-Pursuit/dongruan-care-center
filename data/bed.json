@@ -1,0 +1,109 @@
+[ {
+  "id" : 1,
+  "roomNo" : 101,
+  "bedStatus" : 1,
+  "remarks" : "",
+  "bedNo" : "101-1"
+}, {
+  "id" : 2,
+  "roomNo" : 101,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "101-2"
+}, {
+  "id" : 3,
+  "roomNo" : 102,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "102-1"
+}, {
+  "id" : 4,
+  "roomNo" : 102,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "102-2"
+}, {
+  "id" : 5,
+  "roomNo" : 103,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "103-1"
+}, {
+  "id" : 6,
+  "roomNo" : 103,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "103-2"
+}, {
+  "id" : 7,
+  "roomNo" : 201,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "201-1"
+}, {
+  "id" : 8,
+  "roomNo" : 201,
+  "bedStatus" : 1,
+  "remarks" : "",
+  "bedNo" : "201-2"
+}, {
+  "id" : 9,
+  "roomNo" : 202,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "202-1"
+}, {
+  "id" : 10,
+  "roomNo" : 202,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "202-2"
+}, {
+  "id" : 11,
+  "roomNo" : 203,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "203-1"
+}, {
+  "id" : 12,
+  "roomNo" : 203,
+  "bedStatus" : 1,
+  "remarks" : "",
+  "bedNo" : "203-2"
+}, {
+  "id" : 13,
+  "roomNo" : 301,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "301-1"
+}, {
+  "id" : 14,
+  "roomNo" : 301,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "301-2"
+}, {
+  "id" : 15,
+  "roomNo" : 302,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "302-1"
+}, {
+  "id" : 16,
+  "roomNo" : 302,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "302-2"
+}, {
+  "id" : 17,
+  "roomNo" : 303,
+  "bedStatus" : 2,
+  "remarks" : "",
+  "bedNo" : "303-1"
+}, {
+  "id" : 18,
+  "roomNo" : 303,
+  "bedStatus" : 1,
+  "remarks" : "",
+  "bedNo" : "303-2"
+} ]

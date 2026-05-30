@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "levelName": "一级护理",
+    "levelStatus": 1,
+    "isDeleted": 0
+  },
+  {
+    "id": 2,
+    "levelName": "二级护理",
+    "levelStatus": 1,
+    "isDeleted": 0
+  },
+  {
+    "id": 3,
+    "levelName": "特级护理",
+    "levelStatus": 1,
+    "isDeleted": 0
+  },
+  {
+    "id": 4,
+    "levelName": "康复护理",
+    "levelStatus": 1,
+    "isDeleted": 0
+  }
+]

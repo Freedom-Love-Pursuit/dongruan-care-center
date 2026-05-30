@@ -1,0 +1,548 @@
+[
+  {
+    "id": 1,
+    "weekDay": 1,
+    "mealType": 1,
+    "foodId": 1,
+    "isDeleted": 0
+  },
+  {
+    "id": 2,
+    "weekDay": 1,
+    "mealType": 1,
+    "foodId": 3,
+    "isDeleted": 0
+  },
+  {
+    "id": 3,
+    "weekDay": 1,
+    "mealType": 1,
+    "foodId": 6,
+    "isDeleted": 0
+  },
+  {
+    "id": 4,
+    "weekDay": 1,
+    "mealType": 1,
+    "foodId": 18,
+    "isDeleted": 0
+  },
+  {
+    "id": 5,
+    "weekDay": 1,
+    "mealType": 2,
+    "foodId": 5,
+    "isDeleted": 0
+  },
+  {
+    "id": 6,
+    "weekDay": 1,
+    "mealType": 2,
+    "foodId": 7,
+    "isDeleted": 0
+  },
+  {
+    "id": 7,
+    "weekDay": 1,
+    "mealType": 2,
+    "foodId": 9,
+    "isDeleted": 0
+  },
+  {
+    "id": 8,
+    "weekDay": 1,
+    "mealType": 2,
+    "foodId": 12,
+    "isDeleted": 0
+  },
+  {
+    "id": 9,
+    "weekDay": 1,
+    "mealType": 2,
+    "foodId": 15,
+    "isDeleted": 0
+  },
+  {
+    "id": 10,
+    "weekDay": 1,
+    "mealType": 3,
+    "foodId": 2,
+    "isDeleted": 0
+  },
+  {
+    "id": 11,
+    "weekDay": 1,
+    "mealType": 3,
+    "foodId": 10,
+    "isDeleted": 0
+  },
+  {
+    "id": 12,
+    "weekDay": 1,
+    "mealType": 3,
+    "foodId": 16,
+    "isDeleted": 0
+  },
+  {
+    "id": 13,
+    "weekDay": 2,
+    "mealType": 1,
+    "foodId": 2,
+    "isDeleted": 0
+  },
+  {
+    "id": 14,
+    "weekDay": 2,
+    "mealType": 1,
+    "foodId": 4,
+    "isDeleted": 0
+  },
+  {
+    "id": 15,
+    "weekDay": 2,
+    "mealType": 1,
+    "foodId": 19,
+    "isDeleted": 0
+  },
+  {
+    "id": 16,
+    "weekDay": 2,
+    "mealType": 2,
+    "foodId": 5,
+    "isDeleted": 0
+  },
+  {
+    "id": 17,
+    "weekDay": 2,
+    "mealType": 2,
+    "foodId": 8,
+    "isDeleted": 0
+  },
+  {
+    "id": 18,
+    "weekDay": 2,
+    "mealType": 2,
+    "foodId": 11,
+    "isDeleted": 0
+  },
+  {
+    "id": 19,
+    "weekDay": 2,
+    "mealType": 2,
+    "foodId": 14,
+    "isDeleted": 0
+  },
+  {
+    "id": 20,
+    "weekDay": 2,
+    "mealType": 2,
+    "foodId": 17,
+    "isDeleted": 0
+  },
+  {
+    "id": 21,
+    "weekDay": 2,
+    "mealType": 3,
+    "foodId": 1,
+    "isDeleted": 0
+  },
+  {
+    "id": 22,
+    "weekDay": 2,
+    "mealType": 3,
+    "foodId": 20,
+    "isDeleted": 0
+  },
+  {
+    "id": 23,
+    "weekDay": 2,
+    "mealType": 3,
+    "foodId": 15,
+    "isDeleted": 0
+  },
+  {
+    "id": 24,
+    "weekDay": 3,
+    "mealType": 1,
+    "foodId": 21,
+    "isDeleted": 0
+  },
+  {
+    "id": 25,
+    "weekDay": 3,
+    "mealType": 1,
+    "foodId": 3,
+    "isDeleted": 0
+  },
+  {
+    "id": 26,
+    "weekDay": 3,
+    "mealType": 1,
+    "foodId": 6,
+    "isDeleted": 0
+  },
+  {
+    "id": 27,
+    "weekDay": 3,
+    "mealType": 2,
+    "foodId": 5,
+    "isDeleted": 0
+  },
+  {
+    "id": 28,
+    "weekDay": 3,
+    "mealType": 2,
+    "foodId": 10,
+    "isDeleted": 0
+  },
+  {
+    "id": 29,
+    "weekDay": 3,
+    "mealType": 2,
+    "foodId": 9,
+    "isDeleted": 0
+  },
+  {
+    "id": 30,
+    "weekDay": 3,
+    "mealType": 2,
+    "foodId": 13,
+    "isDeleted": 0
+  },
+  {
+    "id": 31,
+    "weekDay": 3,
+    "mealType": 2,
+    "foodId": 24,
+    "isDeleted": 0
+  },
+  {
+    "id": 32,
+    "weekDay": 3,
+    "mealType": 3,
+    "foodId": 2,
+    "isDeleted": 0
+  },
+  {
+    "id": 33,
+    "weekDay": 3,
+    "mealType": 3,
+    "foodId": 22,
+    "isDeleted": 0
+  },
+  {
+    "id": 34,
+    "weekDay": 3,
+    "mealType": 3,
+    "foodId": 17,
+    "isDeleted": 0
+  },
+  {
+    "id": 35,
+    "weekDay": 4,
+    "mealType": 1,
+    "foodId": 1,
+    "isDeleted": 0
+  },
+  {
+    "id": 36,
+    "weekDay": 4,
+    "mealType": 1,
+    "foodId": 4,
+    "isDeleted": 0
+  },
+  {
+    "id": 37,
+    "weekDay": 4,
+    "mealType": 1,
+    "foodId": 18,
+    "isDeleted": 0
+  },
+  {
+    "id": 38,
+    "weekDay": 4,
+    "mealType": 2,
+    "foodId": 5,
+    "isDeleted": 0
+  },
+  {
+    "id": 39,
+    "weekDay": 4,
+    "mealType": 2,
+    "foodId": 7,
+    "isDeleted": 0
+  },
+  {
+    "id": 40,
+    "weekDay": 4,
+    "mealType": 2,
+    "foodId": 20,
+    "isDeleted": 0
+  },
+  {
+    "id": 41,
+    "weekDay": 4,
+    "mealType": 2,
+    "foodId": 14,
+    "isDeleted": 0
+  },
+  {
+    "id": 42,
+    "weekDay": 4,
+    "mealType": 2,
+    "foodId": 15,
+    "isDeleted": 0
+  },
+  {
+    "id": 43,
+    "weekDay": 4,
+    "mealType": 3,
+    "foodId": 1,
+    "isDeleted": 0
+  },
+  {
+    "id": 44,
+    "weekDay": 4,
+    "mealType": 3,
+    "foodId": 8,
+    "isDeleted": 0
+  },
+  {
+    "id": 45,
+    "weekDay": 4,
+    "mealType": 3,
+    "foodId": 16,
+    "isDeleted": 0
+  },
+  {
+    "id": 46,
+    "weekDay": 5,
+    "mealType": 1,
+    "foodId": 2,
+    "isDeleted": 0
+  },
+  {
+    "id": 47,
+    "weekDay": 5,
+    "mealType": 1,
+    "foodId": 3,
+    "isDeleted": 0
+  },
+  {
+    "id": 48,
+    "weekDay": 5,
+    "mealType": 1,
+    "foodId": 19,
+    "isDeleted": 0
+  },
+  {
+    "id": 49,
+    "weekDay": 5,
+    "mealType": 2,
+    "foodId": 5,
+    "isDeleted": 0
+  },
+  {
+    "id": 50,
+    "weekDay": 5,
+    "mealType": 2,
+    "foodId": 10,
+    "isDeleted": 0
+  },
+  {
+    "id": 51,
+    "weekDay": 5,
+    "mealType": 2,
+    "foodId": 11,
+    "isDeleted": 0
+  },
+  {
+    "id": 52,
+    "weekDay": 5,
+    "mealType": 2,
+    "foodId": 12,
+    "isDeleted": 0
+  },
+  {
+    "id": 53,
+    "weekDay": 5,
+    "mealType": 2,
+    "foodId": 16,
+    "isDeleted": 0
+  },
+  {
+    "id": 54,
+    "weekDay": 5,
+    "mealType": 3,
+    "foodId": 2,
+    "isDeleted": 0
+  },
+  {
+    "id": 55,
+    "weekDay": 5,
+    "mealType": 3,
+    "foodId": 9,
+    "isDeleted": 0
+  },
+  {
+    "id": 56,
+    "weekDay": 5,
+    "mealType": 3,
+    "foodId": 15,
+    "isDeleted": 0
+  },
+  {
+    "id": 57,
+    "weekDay": 6,
+    "mealType": 1,
+    "foodId": 1,
+    "isDeleted": 0
+  },
+  {
+    "id": 58,
+    "weekDay": 6,
+    "mealType": 1,
+    "foodId": 4,
+    "isDeleted": 0
+  },
+  {
+    "id": 59,
+    "weekDay": 6,
+    "mealType": 1,
+    "foodId": 6,
+    "isDeleted": 0
+  },
+  {
+    "id": 60,
+    "weekDay": 6,
+    "mealType": 2,
+    "foodId": 5,
+    "isDeleted": 0
+  },
+  {
+    "id": 61,
+    "weekDay": 6,
+    "mealType": 2,
+    "foodId": 8,
+    "isDeleted": 0
+  },
+  {
+    "id": 62,
+    "weekDay": 6,
+    "mealType": 2,
+    "foodId": 20,
+    "isDeleted": 0
+  },
+  {
+    "id": 63,
+    "weekDay": 6,
+    "mealType": 2,
+    "foodId": 13,
+    "isDeleted": 0
+  },
+  {
+    "id": 64,
+    "weekDay": 6,
+    "mealType": 2,
+    "foodId": 17,
+    "isDeleted": 0
+  },
+  {
+    "id": 65,
+    "weekDay": 6,
+    "mealType": 3,
+    "foodId": 1,
+    "isDeleted": 0
+  },
+  {
+    "id": 66,
+    "weekDay": 6,
+    "mealType": 3,
+    "foodId": 10,
+    "isDeleted": 0
+  },
+  {
+    "id": 67,
+    "weekDay": 6,
+    "mealType": 3,
+    "foodId": 24,
+    "isDeleted": 0
+  },
+  {
+    "id": 68,
+    "weekDay": 7,
+    "mealType": 1,
+    "foodId": 2,
+    "isDeleted": 0
+  },
+  {
+    "id": 69,
+    "weekDay": 7,
+    "mealType": 1,
+    "foodId": 3,
+    "isDeleted": 0
+  },
+  {
+    "id": 70,
+    "weekDay": 7,
+    "mealType": 1,
+    "foodId": 18,
+    "isDeleted": 0
+  },
+  {
+    "id": 71,
+    "weekDay": 7,
+    "mealType": 2,
+    "foodId": 5,
+    "isDeleted": 0
+  },
+  {
+    "id": 72,
+    "weekDay": 7,
+    "mealType": 2,
+    "foodId": 7,
+    "isDeleted": 0
+  },
+  {
+    "id": 73,
+    "weekDay": 7,
+    "mealType": 2,
+    "foodId": 9,
+    "isDeleted": 0
+  },
+  {
+    "id": 74,
+    "weekDay": 7,
+    "mealType": 2,
+    "foodId": 14,
+    "isDeleted": 0
+  },
+  {
+    "id": 75,
+    "weekDay": 7,
+    "mealType": 2,
+    "foodId": 15,
+    "isDeleted": 0
+  },
+  {
+    "id": 76,
+    "weekDay": 7,
+    "mealType": 3,
+    "foodId": 25,
+    "isDeleted": 0
+  },
+  {
+    "id": 77,
+    "weekDay": 7,
+    "mealType": 3,
+    "foodId": 11,
+    "isDeleted": 0
+  },
+  {
+    "id": 78,
+    "weekDay": 7,
+    "mealType": 3,
+    "foodId": 16,
+    "isDeleted": 0
+  }
+]

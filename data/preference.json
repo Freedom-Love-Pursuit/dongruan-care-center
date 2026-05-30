@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "customerId": 1,
+    "preferences": "清淡",
+    "allergies": "海鲜",
+    "remark": "喜欢喝粥，少油少盐",
+    "isDeleted": 0
+  },
+  {
+    "id": 2,
+    "customerId": 2,
+    "preferences": "软烂",
+    "allergies": "",
+    "remark": "牙齿不好，肉要炖烂",
+    "isDeleted": 0
+  },
+  {
+    "id": 3,
+    "customerId": 4,
+    "preferences": "低糖",
+    "allergies": "",
+    "remark": "有糖尿病，忌甜食和含糖水果",
+    "isDeleted": 0
+  },
+  {
+    "id": 4,
+    "customerId": 6,
+    "preferences": "流食",
+    "allergies": "鸡蛋",
+    "remark": "卧床需喂食，食物打成糊状",
+    "isDeleted": 0
+  },
+  {
+    "id": 5,
+    "customerId": 7,
+    "preferences": "正常",
+    "allergies": "",
+    "remark": "无需特殊饮食",
+    "isDeleted": 0
+  },
+  {
+    "id": 6,
+    "customerId": 8,
+    "preferences": "易消化",
+    "allergies": "",
+    "remark": "胃口小，少食多餐",
+    "isDeleted": 0
+  },
+  {
+    "id": 7,
+    "customerId": 10,
+    "preferences": "鼻饲流食",
+    "allergies": "牛奶",
+    "remark": "通过鼻饲管进食",
+    "isDeleted": 0
+  },
+  {
+    "id": 8,
+    "customerId": 12,
+    "preferences": "高蛋白",
+    "allergies": "",
+    "remark": "术后康复，需补充营养",
+    "isDeleted": 0
+  },
+  {
+    "id": 9,
+    "customerId": 13,
+    "preferences": "低脂",
+    "allergies": "",
+    "remark": "冠心病，忌油腻",
+    "isDeleted": 0
+  },
+  {
+    "id": 10,
+    "customerId": 14,
+    "preferences": "正常",
+    "allergies": "",
+    "remark": "",
+    "isDeleted": 0
+  }
+]
